@@ -7,6 +7,8 @@ Kali ini kita menyiapkan data supaya siap dipakai
 Penting !!
 
 File ini berisi Query
-Work 100% digunakan dengan SQL Server Management Studio
-Apabila di tools lain pasti ada perubahan minor
-Enjoy Selamat mencoba
+1. Work 100% digunakan dengan SQL Server Management Studio
+
+2. Apabila di tools lain pasti ada perubahan minor
+
+3. Enjoy Selamat mencoba
